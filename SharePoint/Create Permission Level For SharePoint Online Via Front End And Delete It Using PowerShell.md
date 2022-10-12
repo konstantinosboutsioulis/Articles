@@ -35,14 +35,14 @@
 
 ```
 
-  #Αρχικοποίηση Παραμέτρων
+#Initialize Variables for the excecution
 $Site = "https://mytenant.sharepoint.com/sites/Mysite"
 $LevelName = "Blog Post"
 
-#Σύνδεση με SharePoint Online
+#Open Connection with SharePoint Online
 Connect-PnPOnline -Url $Site -UseWebLogin
  
-#Διαγραφή Permission Level 
+#Delete Permission Level Using PnP 
 Remove-PnPRoleDefinition -Identity $LevelName -Force
 
 ```
