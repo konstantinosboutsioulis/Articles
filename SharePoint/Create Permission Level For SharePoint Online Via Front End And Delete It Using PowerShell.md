@@ -1,3 +1,5 @@
+![Boutsioulis_Konstantinos!](assets/image.png "Icon")
+
 ----
 >  ## Title :  Create Permission Level For SharePoint Online Via Front End And Delete It Using PowerShell 
 >  
@@ -53,8 +55,5 @@ Remove-PnPRoleDefinition -Identity $LevelName -Force
 
 <p></p>
 
-![Facebook](/assets/f_logo_RGB-Blue_1024.png "Me")
-![Instagram](/assets/Instagram_Glyph_Gradient.png "Me")
-![LinkedIn](/assets/LI-In-Bug.png "Me")
-![Twitter](/assets/2021 Twitter logo - blue.png "Me")
+
 
