@@ -5,7 +5,8 @@
 
 This is a public repository to share my knowledge with everyone who is interested 
 
-in this public folder you will find articles about M365 and how to manage  M365 applications and services using PowerShell 
+In this public folder you will find articles about M365 and how to manage  M365 applications and services and Scripts to manage M365 using PowerShell 
+I will also provide links in Microsoft Learn for each case so you can find the official documentation by Microsoft 
 
 
 
