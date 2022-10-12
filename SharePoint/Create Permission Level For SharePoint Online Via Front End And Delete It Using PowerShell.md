@@ -29,8 +29,10 @@
 <p>In case I wish to delete the permission level I can do it either from front end by selecting the Permission level and then clicking deleted selected permission level</p>
 ![Boutsioulis_Konstantinos!](/assets/4.png "Icon")
 <p>or via PowerShell . I run the following PowerShell and from SharePoint Shell with admin rights and I have</p>
+
+
 ```
-{
+
   #Αρχικοποίηση Παραμέτρων
 $Site = "https://mytenant.sharepoint.com/sites/Mysite"
 $LevelName = "Blog Post"
@@ -40,7 +42,7 @@ Connect-PnPOnline -Url $Site -UseWebLogin
  
 #Διαγραφή Permission Level 
 Remove-PnPRoleDefinition -Identity $LevelName -Force
-}
+
 ```
 
 
