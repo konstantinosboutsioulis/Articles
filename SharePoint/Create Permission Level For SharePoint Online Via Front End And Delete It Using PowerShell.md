@@ -28,6 +28,8 @@
 
 <p>In case I wish to delete the permission level I can do it either from front end by selecting the Permission level and then clicking deleted selected permission level</p>
 ![Boutsioulis_Konstantinos!](assets/4.png "Icon")
+
+
 <p>or via PowerShell . I run the following PowerShell and from SharePoint Shell with admin rights and I have</p>
 
 
