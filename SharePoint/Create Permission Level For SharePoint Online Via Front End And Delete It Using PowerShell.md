@@ -10,16 +10,16 @@
 
 <p>From the site settings we select advanced permission settings and then permission level</p>
 
-![Boutsioulis_Konstantinos!](/assets/1.png "Icon")
+![Boutsioulis_Konstantinos!](assets/1.png "Icon")
 
 <p>Then select add a permission level</p>
 
-![Boutsioulis_Konstantinos!](/assets/2.png "Icon")
+![Boutsioulis_Konstantinos!](assets/2.png "Icon")
 
 <p>Enter name and select properties for my new permission level</p>
 
 
-![Boutsioulis_Konstantinos!](/assets/3.png "Icon")
+![Boutsioulis_Konstantinos!](assets/3.png "Icon")
 
 
 <p>and as you can see my new Permission level has been created</p>
@@ -27,7 +27,7 @@
 <p>Now I can apply the permission level to the user or group of my choice</p>
 
 <p>In case I wish to delete the permission level I can do it either from front end by selecting the Permission level and then clicking deleted selected permission level</p>
-![Boutsioulis_Konstantinos!](/assets/4.png "Icon")
+![Boutsioulis_Konstantinos!](assets/4.png "Icon")
 <p>or via PowerShell . I run the following PowerShell and from SharePoint Shell with admin rights and I have</p>
 
 
@@ -46,7 +46,7 @@ Remove-PnPRoleDefinition -Identity $LevelName -Force
 ```
 
 
-![Boutsioulis_Konstantinos!](/assets/5.png "Icon")
+![Boutsioulis_Konstantinos!](assets/5.png "Icon")
 
 <p></p>
 
