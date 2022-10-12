@@ -5,7 +5,7 @@
 
 This is a public repository to share my knowledge with everyone who is interested 
 
-In this public folder you will find articles about M365 and how to manage  M365 applications and services and Scripts to manage M365 using PowerShell 
+In this public repository you will find articles about M365 and how to manage  M365 applications and services and Scripts to manage M365 using PowerShell 
 I will also provide links in Microsoft Learn for each case so you can find the official documentation by Microsoft 
 
 
@@ -14,18 +14,19 @@ I will also provide links in Microsoft Learn for each case so you can find the o
 - [x] SharePoint [^1]
 - [x] Teams
 - [x] Viva
-- [x] Planner
 - [x] Power Automate
 - [x] Power Apps
+- [x] Syntex
 - [x] OneDrive
 - [x] Security
+- [x] Planner
 - [x] Forms
 - [x] Yammer
 - [x] OneNote
 - [x] Sway
 - [x] Stream
 - [x] To Do
-- [x] Syntex
+
 
 
 
