@@ -33,7 +33,7 @@
 ![Boutsioulis_Konstantinos!](assets/4.png "Icon")
 
 
-<p>or via PowerShell . I run the following PowerShell and from SharePoint Shell with admin rights and I have</p>
+<p>or via PowerShell . I run the following PowerShell from SharePoint Shell with admin rights and I finally get this result</p>
 
 
 ```
